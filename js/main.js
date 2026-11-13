@@ -231,7 +231,7 @@
         const role = document.getElementById('consult-role')?.value || 'Learner';
         const slot = document.getElementById('consult-slot')?.value || 'Flexible';
 
-        const mentorPhone = '919570251204';
+        const mentorPhone = '919005747128';
         const textMessage = `Hello Gulshad Sir,
 My name is ${name}.
 I am a ${role} interested in the IDP Affiliate System.

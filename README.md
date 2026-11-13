@@ -16,7 +16,7 @@ Built with semantic HTML5, modern CSS3, and vanilla JavaScript (zero heavy frame
 - **The 3-Step IDP Blueprint:** Clear 3-module curriculum breakdown explaining the verified affiliate system.
 - **Mentor Spotlight:** Official profile card for Gulshad Ahmad with verified credentials, social follower counts, and direct contact options.
 - **Interactive FAQ Accordion:** Clean animated accordion addressing common beginner questions.
-- **Native Consultation Dialog (`<dialog>`):** Compliant with modern web standards, featuring light dismiss, Escape key dismiss, and pre-formatted WhatsApp consultation dispatch to `+919570251204`.
+- **Native Consultation Dialog (`<dialog>`):** Compliant with modern web standards, featuring light dismiss, Escape key dismiss, and pre-formatted WhatsApp consultation dispatch to `+919005747128`.
 - **Floating WhatsApp Button & Sticky Mobile CTA:** Mobile-safe bottom-right WhatsApp button and safe-area aware sticky consultation pill.
 
 ---
